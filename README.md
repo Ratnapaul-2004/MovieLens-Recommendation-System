@@ -46,6 +46,7 @@ MovieLens-Recommendation-System/
 1. Clone Repository
 
 git clone https://github.com/<your-username>/MovieLens-Recommendation-System.git
+
 cd MovieLens-Recommendation-System
 
 2. Install Dependencies
