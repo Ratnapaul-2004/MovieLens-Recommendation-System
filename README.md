@@ -33,9 +33,10 @@ The project explores Collaborative Filtering, Content-Based Filtering, and Hybri
 
 # 📂 Project Structure
 
+```
 MovieLens-Recommendation-System/
 │── recommendation_system.ipynb    # Main Jupyter Notebook
 │── requirements.txt               # Dependencies
 │── README.md                      # Project Documentation                          
-
+```
 
